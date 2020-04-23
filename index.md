@@ -8,6 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+from IPython.display import Math
+Math(r'F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx')
+
+
+
 ```markdown
 Syntax highlighted code block
 
